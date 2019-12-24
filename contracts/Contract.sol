@@ -1,8 +1,8 @@
-pragma solidity >=0.4.21 <0.6.0;
+pragma solidity >=0.4.21 <0.6.0; //defining versions
 
 contract Contract {
 
-int public value;
+int public value = 4;
 
 function getDouble(int _value) public returns (int _output){
 
