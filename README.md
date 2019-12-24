@@ -17,6 +17,9 @@ To Run this smart contract please follow following steps
 
 2. Deploy Contract with following command
    - ```truffle.cmd migrate```  on Windows
+   
+2. Test Contract with following command
+   - ```truffle.cmd test```  on Windows
 
 
 ## Important
